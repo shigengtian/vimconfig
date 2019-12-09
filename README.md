@@ -1,3 +1,4 @@
-this is vim config rep
-### ToDo
-google format: http://google.github.io/styleguide/
+### Install Youcompelete me on mac
+* `brew install cmake macvim`
+* `cd ~/.vim/bundle/YouCompleteMe`
+* `/usr/bin/python ./install.py`
